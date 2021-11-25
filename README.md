@@ -7,7 +7,7 @@ O projeto é a codificação de um aspirador de pó virtual para uma sala de tam
 ### Iniciando...
 
 - `git clone https://github.com/rayssasandrade/AspiradorDePo.git`
-- `cd exemplo`
+- `cd AspiradorDePo`
 
 ### 🛠 Tecnologias
 
@@ -17,12 +17,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Resultado
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/f9fyxS8/fim.png" alt="fim" border="0"></a>
+-Entrada e inicialização
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/rm1KmbK/inicio.png" alt="inicio" border="0"></a>
+
+-Após execução do algoritmo
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/f9fyxS8/fim.png" alt="fim" border="0"></a>
 
 ### Autor
 <a href="#">
- <img style="border-radius: 50%;" src="https://instagram.faju3-1.fna.fbcdn.net/v/t51.2885-15/e35/129774138_506915386934312_6214321278973834168_n.jpg?_nc_ht=instagram.faju3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=A4ksCvsQ0CgAX9j6anc&edm=ALQROFkBAAAA&ccb=7-4&oh=3eb7951c5625dd3528a8c83b259ec348&oe=61A6909B&_nc_sid=30a2ef&ig_cache_key=MjQ1NjEzMzcxNTUxMzAyOTM3MQ%3D%3D.2-ccb7-4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGc_Ovg7ftTrw/profile-displayphoto-shrink_800_800/0/1600526654859?e=1643241600&v=beta&t=k16wL6TdDuM4mXYy2s1TjJUmq5pTqgA5bOllODvQSBs" width="100px;" alt=""/>
  <br />
  <sub><b>Rayssa Andrade</b></sub></a>
 
