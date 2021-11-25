@@ -17,11 +17,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Resultado
 
-- Entrada e inicialização
+- Entrada, inicialização e após execução do algoritmo 
  <br />
 <a href="https://imgbb.com/"><img style="border-radius: 50%;" src="https://i.ibb.co/rm1KmbK/inicio.png" alt="inicio" width="400px;"></a>
- <br />
-- Após execução do algoritmo
  <br />
 <a href="https://imgbb.com/"><img style="border-radius: 50%;" src="https://i.ibb.co/f9fyxS8/fim.png" alt="fim" width="400px;" ></a>
  <br />
