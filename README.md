@@ -17,12 +17,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Resultado
 
--Entrada e inicialização
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/rm1KmbK/inicio.png" alt="inicio" border="0"></a>
-
--Após execução do algoritmo
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/f9fyxS8/fim.png" alt="fim" border="0"></a>
-
+- Entrada e inicialização
+ <br />
+<a href="https://imgbb.com/"><img style="border-radius: 50%;" src="https://i.ibb.co/rm1KmbK/inicio.png" alt="inicio" width="400px;"></a>
+ <br />
+- Após execução do algoritmo
+ <br />
+<a href="https://imgbb.com/"><img style="border-radius: 50%;" src="https://i.ibb.co/f9fyxS8/fim.png" alt="fim" width="400px;" ></a>
+ <br />
+ 
 ### Autor
 <a href="#">
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGc_Ovg7ftTrw/profile-displayphoto-shrink_800_800/0/1600526654859?e=1643241600&v=beta&t=k16wL6TdDuM4mXYy2s1TjJUmq5pTqgA5bOllODvQSBs" width="100px;" alt=""/>
